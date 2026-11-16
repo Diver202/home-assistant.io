@@ -1265,6 +1265,7 @@ source/_integrations/vivotek.markdown @HarlemSquirrel
 source/_integrations/vizio.markdown @raman325
 source/_integrations/vlc_telnet.markdown @rodripf @MartinHjelmare
 source/_integrations/vodafone_station.markdown @paoloantinori @chemelli74
+source/_integrations/voice_support.markdown @synesthesiam @arturpragacz
 source/_integrations/voip.markdown @home-assistant/core @jaminh
 source/_integrations/volkszaehler.markdown @StefanSchoof
 source/_integrations/volumio.markdown @OnFreund
